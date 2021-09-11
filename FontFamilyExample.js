@@ -11,6 +11,9 @@ import {
 const fontStack = [
   'PingFang SC', // OK on iOS
   'PingFangSC-Semibold', // OK on iOS
+  
+  'Songti SC',
+  'STSongti-SC-Regular',
 
   'Hiragino Sans', // OK on iOS
   'HiraginoSans-W3', // OK on iOS
